@@ -1,7 +1,7 @@
 # test
-MAIN := list1.exe
+MAIN := bsearch.exe
 HEADER := 
-OBJECT := list1.cpp
+OBJECT := bsearch_test2.cpp
 CXX := g++
 CXXOPTION = -O2 -Werror -c 
 O_OBJECT := $(OBJECT:.cpp=.o)
