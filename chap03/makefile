@@ -1,7 +1,7 @@
 # test
-MAIN := bsearch.exe
+MAIN := person.exe
 HEADER := 
-OBJECT := bsearch_test2.cpp
+OBJECT := sort_Person.cpp
 CXX := g++
 CXXOPTION = -O2 -Werror -c 
 O_OBJECT := $(OBJECT:.cpp=.o)
