@@ -1,8 +1,14 @@
 # test
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 MAIN := person.exe
 HEADER := 
 OBJECT := sort_Person.cpp
+=======
+MAIN := list1.exe
+HEADER := 
+OBJECT := list1.cpp
+>>>>>>> Stashed changes
 =======
 MAIN := list1.exe
 HEADER := 
