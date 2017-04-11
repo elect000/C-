@@ -1,7 +1,13 @@
 # test
+<<<<<<< Updated upstream
 MAIN := person.exe
 HEADER := 
 OBJECT := sort_Person.cpp
+=======
+MAIN := list1.exe
+HEADER := 
+OBJECT := list1.cpp
+>>>>>>> Stashed changes
 CXX := g++
 CXXOPTION = -O2 -Werror -c 
 O_OBJECT := $(OBJECT:.cpp=.o)
