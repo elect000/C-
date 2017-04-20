@@ -37,4 +37,5 @@ int main()
   kuku(mul);
   cout << '\n';
   return 0;
+
 }
