@@ -1,7 +1,7 @@
 # test
-MAIN := data_nember.exe
-HEADER := 
-OBJECT := data_member_ptr.cpp
+MAIN := Member.exe
+HEADER := Member.h
+OBJECT := Member.cpp MemberTest.cpp
 CXX := g++
 CXXOPTION = -O2 -Werror -c 
 O_OBJECT := $(OBJECT:.cpp=.o)
