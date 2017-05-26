@@ -36,7 +36,7 @@ int main()
   // (5)
   if (D < 0) {
     printf("この二次方程式は実数解を持たない。\n");
-    return 1;
+    return 0;
   }
   return 1;
 }
